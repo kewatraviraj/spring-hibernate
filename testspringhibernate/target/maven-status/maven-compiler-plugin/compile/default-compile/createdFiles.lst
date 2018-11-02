@@ -1,0 +1,9 @@
+com\testspringhibernate\dao\DataOperation.class
+com\testspringhibernate\configuration\HibernateConfig.class
+com\testspringhibernate\configuration\WebMvcConfig.class
+com\testspringhibernate\Initializer\MyWebAppInitializer.class
+com\testspringhibernate\service\DatadetailsOperationService.class
+com\testspringhibernate\controller\TestController.class
+com\testspringhibernate\model\Datadetails.class
+com\testspringhibernate\dao\DataOperationImpl.class
+com\testspringhibernate\controller\SpringController.class
